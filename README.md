@@ -7,3 +7,17 @@ I analyzed life expectancy of male and female around the world found that:
 3. HongKong is leading with the highest life expectancy.
 4. Countries with high life expectancy have a health population.
 5. Life expectancy is lower when the birth rate is high.
+
+### Software
+
+Python 3.11
+
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+Google colab
